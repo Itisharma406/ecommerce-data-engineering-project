@@ -1,0 +1,19 @@
+How to Run the Project?
+Create catalog and schemas:
+
+setup_catalog.py
+
+Run Bronze layer:
+
+dim_bronze.py
+fact_bronze.py
+
+Run Silver layer:
+
+dim_silver.py
+fact_silver.py
+
+Run Gold layer:
+
+dim_gold.py
+fact_gold.py
