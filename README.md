@@ -7,6 +7,11 @@ Since this project only uses medallion architecture and Spark to transform raw d
 
 Raw Data (CSV) -> Bronze Layer (Raw Data Ingestion) -> Silver Layer (Cleaning & Transformation) -> Gold Layer (Business Models / Star Schema) -> Analytics / BI (Power BI / SQL)
 
+**⚙️ Tech Stack**
+- Databricks
+- PySpark
+- SQL
+
 **Data Layers**
 
 🥉 **Bronze Layer – Raw Ingestion**
