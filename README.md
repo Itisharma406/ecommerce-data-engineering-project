@@ -40,9 +40,11 @@ Raw Data (CSV) -> Bronze Layer (Raw Data Ingestion) -> Silver Layer (Cleaning & 
 **Data Model (Star Schema)**
 **Fact Table**
 - gld_fact_order_items
+
 **Dimension Tables**
 - gld_dim_customers
 - gld_dim_products
 - gld_dim_date
-**Denormalized View**
+
+**Denormalised View**
 - fact_transactions_denorm
